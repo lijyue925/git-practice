@@ -1,7 +1,3 @@
 HelloWorld for GIT
 
-Master pratice
-
-HEHEHE
-
-test2
+DOSKEY
