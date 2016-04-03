@@ -1,13 +1,3 @@
 HelloWorld for GIT
-<<<<<<< HEAD
-MASTER HELLO 
-bug fixed
-=======
-BRANCH
-<<<<<<< HEAD
->>>>>>> feature-testing2
-=======
->>>>>>> feature-testing
 
-STH
->>>>>>> test
+branch practice
