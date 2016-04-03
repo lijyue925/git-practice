@@ -4,4 +4,10 @@ MASTER HELLO
 bug fixed
 =======
 BRANCH
+<<<<<<< HEAD
 >>>>>>> feature-testing2
+=======
+>>>>>>> feature-testing
+
+STH
+>>>>>>> test
