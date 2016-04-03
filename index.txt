@@ -1,3 +1,7 @@
 HelloWorld for GIT
 
+<<<<<<< HEAD
 Master pratice
+=======
+branch practice
+>>>>>>> test
