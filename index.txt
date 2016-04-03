@@ -1,3 +1,7 @@
 HelloWorld for GIT
+<<<<<<< HEAD
 MASTER HELLO 
 bug fixed
+=======
+BRANCH
+>>>>>>> feature-testing
